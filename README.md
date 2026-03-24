@@ -1,4 +1,5 @@
 # Azure Infrastructure Deployment IaC
+<img src="https://imgur.com/WaATS8B.jpeg"/>
 
 📌 Overview
 
@@ -77,3 +78,4 @@ Auto-scaling configurations
 👤 Author
 
 Azure Cloud Engineer | Infrastructure as Code Enthusiast
+
